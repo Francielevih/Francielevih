@@ -1,4 +1,6 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## “São as nossas escolhas que mostram o que realmente somos, muito mais do que nossas habilidades.” —  J. K. Rowling
+
+Fonte: https://citacoes.in/autores/j-k-rowling/
 
  <div>
    <a href="https://github.com/Francielevih">
