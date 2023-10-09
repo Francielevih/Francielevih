@@ -1,4 +1,5 @@
 ## “São as nossas escolhas que mostram o que realmente somos, muito mais do que nossas habilidades.” —  J. K. Rowling
+## Estudante, nerd, roqueira, resgatadora de animais, apaixonada por livros e resenhas. 
 
 Fonte: https://citacoes.in/autores/j-k-rowling/
 
@@ -20,6 +21,8 @@ Fonte: https://citacoes.in/autores/j-k-rowling/
  
 <div> 
   <a href="https://instagram.com/franciele.vih/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https:https://www.instagram.com/ajovemdosgatosbh/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https:https://www.instagram.com/fontedaaventura/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "francielevpcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/francielevih/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
