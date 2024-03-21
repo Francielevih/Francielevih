@@ -1,7 +1,9 @@
-## “São as nossas escolhas que mostram o que realmente somos, muito mais do que nossas habilidades.” —  J. K. Rowling
-## Estudante, nerd, roqueira, resgatadora de animais, apaixonada por livros e resenhas. 
+## 📍 Minas Gerais, Brasil
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+🌱 Em constante evolução e aprendizado, trilhando o caminho dos meus sonhos para alcançar uma carreira de sucesso como desenvolvedora.
+## 📚 Hobbies: Leitura, Escrita de Resenhas, Canto, Trilhas na Natureza, Rock 'n' Roll, Cosplay
+🐾 Resgatadora de Animais: Apaixonada por ajudar gatinhos e cãezinhos a encontrarem novos lares através da adoção responsável.
 
-Fonte: https://citacoes.in/autores/j-k-rowling/
 
  <div>
    <a href="https://github.com/Francielevih">
