@@ -1,8 +1,6 @@
-## 📍 Minas Gerais, Brasil
+## 👩🏼‍💻 Franciele Vitória 📍 Minas Gerais, Brasil
 ## 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-## 🌱 Em constante evolução e aprendizado, trilhando o caminho dos meus sonhos para alcançar uma carreira de sucesso como desenvolvedora.
-## 📚 Hobbies: Leitura, Escrita de Resenhas, Canto, Trilhas na Natureza, Rock 'n' Roll, Cosplay
-## 🐾 Resgatadora de Animais: Apaixonada por ajudar gatinhos e cãezinhos a encontrarem novos lares através da adoção responsável.
+## 💼 Atualmente focada em aprimorar minhas habilidades em desenvolvimento de sistemas, buscando oportunidades para aplicar meu conhecimento teórico em ambientes práticos.
 
 
  <div>
