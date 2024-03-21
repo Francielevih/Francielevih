@@ -1,8 +1,8 @@
 ## 📍 Minas Gerais, Brasil
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-🌱 Em constante evolução e aprendizado, trilhando o caminho dos meus sonhos para alcançar uma carreira de sucesso como desenvolvedora.
+## 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+## 🌱 Em constante evolução e aprendizado, trilhando o caminho dos meus sonhos para alcançar uma carreira de sucesso como desenvolvedora.
 ## 📚 Hobbies: Leitura, Escrita de Resenhas, Canto, Trilhas na Natureza, Rock 'n' Roll, Cosplay
-🐾 Resgatadora de Animais: Apaixonada por ajudar gatinhos e cãezinhos a encontrarem novos lares através da adoção responsável.
+## 🐾 Resgatadora de Animais: Apaixonada por ajudar gatinhos e cãezinhos a encontrarem novos lares através da adoção responsável.
 
 
  <div>
