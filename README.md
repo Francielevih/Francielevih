@@ -1,5 +1,5 @@
 ## 👩🏼‍💻 Franciele Vitória 📍 Minas Gerais, Brasil
-## 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+## 🎓 Análise e Desenvolvimento de Sistemas
 ## 💼 Atualmente focada em aprimorar minhas habilidades em desenvolvimento de sistemas, buscando oportunidades para aplicar meu conhecimento teórico em ambientes práticos.
 
 
